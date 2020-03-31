@@ -1,0 +1,74 @@
+[
+  {
+    "title": "app_grocery_management",
+    "icon": "ic_app_1.png",
+    "appid": "app/grocery",
+    "settings": {}
+  },
+  {
+    "title": "app_sell",
+    "icon": "ic_app_2.png",
+    "appid": "app/nextpos",
+    "settings": {}
+  },
+  {
+    "title": "app_warehousing",
+    "icon": "ic_app_3.png",
+    "appid": "app/warehousing",
+    "settings": {}
+  },
+  {
+    "title": "app_attendance",
+    "icon": "ic_app_4.png",
+    "appid": "app/attendance",
+    "settings": {}
+  },
+  {
+    "title": "app_staff",
+    "icon": "ic_app_5.png",
+    "appid": null,
+    "settings": {}
+  },
+  {
+    "title": "app_recruitment",
+    "icon": "ic_app_6.png",
+    "appid": null,
+    "settings": {}
+  },
+  {
+    "title": "app_advance_payment",
+    "icon": "ic_app_7.png",
+    "appid": null,
+    "settings": {}
+  },
+  {
+    "title": "app_payment_book",
+    "icon": "ic_app_8.png",
+    "appid": null,
+    "settings": {}
+  },
+  {
+    "title": "app_customers",
+    "icon": "ic_app_9.png",
+    "appid": null,
+    "settings": {}
+  },
+  {
+    "title": "app_invoices",
+    "icon": "ic_app_10.png",
+    "appid": null,
+    "settings": {}
+  },
+  {
+    "title": "app_atm360",
+    "icon": "ic_app_11.png",
+    "appid": null,
+    "settings": {}
+  },
+  {
+    "title": "app_business",
+    "icon": "ic_app_12.png",
+    "appid": null,
+    "settings": {}
+  }
+]
